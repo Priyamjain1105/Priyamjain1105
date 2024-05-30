@@ -14,15 +14,15 @@
 
 - 🌱 I’m currently learning **Flask Framework**
 
-- 👨‍💻 All of my projects are available at [https://priyamweb.wixsite.com/priyamexploration](https://priyamweb.wixsite.com/priyamexploration)
+- 👨‍💻 All of my projects are available at [here](https://priyamweb.wixsite.com/priyamexploration)
 
-- 📝 I regularly write articles on [https://5f4099db62df8.site123.me/](https://5f4099db62df8.site123.me/)
+- 📝 I regularly write articles on [here](https://5f4099db62df8.site123.me/)
 
 - 💬 Ask me about **Geo Data Processing**
 
 - 📫 How to reach me **priyamjainsocial@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dev-priyam/overlay/1715042095322/single-media-viewer/?profileId=ACoAAEMbflwBMVNwoo-DQETizJ0aUP5uSjniA_M](https://www.linkedin.com/in/dev-priyam/overlay/1715042095322/single-media-viewer/?profileId=ACoAAEMbflwBMVNwoo-DQETizJ0aUP5uSjniA_M)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/dev-priyam/overlay/1715042095322/single-media-viewer/?profileId=ACoAAEMbflwBMVNwoo-DQETizJ0aUP5uSjniA_M)
 
 - ⚡ Fun fact **I am Introvert**
 
