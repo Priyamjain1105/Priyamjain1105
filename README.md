@@ -1,7 +1,7 @@
 
 ![MasterHead](gitbanner.gif)
 
-<h1 align="center">Hi 👋, I'm Priyam Jain</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Priyam Jain</h1>
 
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/priyamjain1105" target="blank"><img src="https://img.shields.io/twitter/follow/priyamjain1105?logo=twitter&style=for-the-badge" alt="priyamjain1105" /></a> </p>
 
+- 🌍  I'm based in Jhansi, India
+  
 - 🧑‍💼 I’m Currently Intern at [SpWeb@Devs](https://www.spwebdevs.com/)
 
 - 🌱 I’m currently learning **Flask Framework**
