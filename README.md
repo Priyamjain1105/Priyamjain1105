@@ -1,5 +1,5 @@
 
-![MasterHead](download.gif)
+![MasterHead](github banner.gif)
 
 <h1 align="center">Hi 👋, I'm Priyam Jain</h1>
 
