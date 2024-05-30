@@ -1,6 +1,8 @@
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Priyam Jain</h1>
 <h3 align="center">A passionate Developer from India</h3>
-
+<img align ="right" width = "400" src="https://tenor.com/view/cartoon-xolo-jrny-club-planet-xolo-rocket-gif-17357930893101646467" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamjain1105&label=Profile%20views&color=0e75b6&style=flat" alt="priyamjain1105" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyamjain1105" alt="priyamjain1105" /></a> </p>
