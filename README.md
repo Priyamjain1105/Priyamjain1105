@@ -1,4 +1,4 @@
-![MasterHead](gitbanner.gif)
+![MasterHead](pj.gif)
 
 <h1 align="center">Hi👋🏻, I'm Priyam Jain</h1>
 
