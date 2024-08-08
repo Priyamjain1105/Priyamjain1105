@@ -1,7 +1,7 @@
 ![MasterHead](pj.gif)
 
   
-![Weather](https://wttr.in/Bhopal.png?0)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 <h1 align="center">Hi 👋, I'm Priyam Jain</h1>
 <h3 align="center">Debugging Life and Code</h3>
@@ -82,4 +82,4 @@
   <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=
 
 ### Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
