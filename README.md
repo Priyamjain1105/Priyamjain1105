@@ -1,6 +1,6 @@
 ![MasterHead](pj.gif)
 
-
+  
 ![Weather](https://wttr.in/Bhopal.png?0)
 
 <h1 align="center">Hi 👋, I'm Priyam Jain</h1>
@@ -81,5 +81,5 @@
   <img src="https://img.shields.io/badge/Cloud-GitHub%20Pages-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="GitHub Pages" />
   <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=
 
-### Quote
+### Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
