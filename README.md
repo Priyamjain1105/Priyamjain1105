@@ -62,11 +62,15 @@
 
 ### 📊 My GitHub Stats
 
+<img src="https://myreadme.vercel.app/api/embed/Priyamjain1105?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <a href="http://www.github.com/priyamjain1105"><img src="https://github-readme-stats.vercel.app/api?username=priyamjain1105&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="priyamjain1105's GitHub stats" /></a>
 
 <a href="http://www.github.com/priyamjain1105"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamjain1105&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/priyamjain1105" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamjain1105&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
+![star-history](https://api.lucabubi.me/chart?username=Priyamjain1105&repository=REPOSITORY&color=COLOR)
 
 ---
 
@@ -78,7 +82,9 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cloud-GitHub%20Pages-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="GitHub Pages" />
   <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=
-  
+
+---
+
 # Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
