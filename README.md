@@ -1,7 +1,5 @@
 ![MasterHead](pj.gif)
 
-  
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 <h1 align="center">Hi 👋, I'm Priyam Jain</h1>
 <h3 align="center">Debugging Life and Code</h3>
@@ -80,6 +78,7 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cloud-GitHub%20Pages-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="GitHub Pages" />
   <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=
-
-### Quote  
-
+  
+# Quote
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
