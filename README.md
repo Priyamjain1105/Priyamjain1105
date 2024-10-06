@@ -17,11 +17,10 @@
 ---
 
 - 🌍 I'm based in **Jhansi, India**
-- 🧑‍💼 Currently interning at [**SpWeb@Devs**](https://www.spwebdevs.com/)
-- 🌱 Learning the **Flask Framework**
+- 🌱 Currently Learning the **Full Stack Development**
 - 👨‍💻 All of my projects are available on [**My Portfolio**](https://priyamweb.wixsite.com/priyamexploration)
-- 📝 I regularly write articles on [**Independent Research**](https://5f4099db62df8.site123.me/)
-- 💬 Ask me about **Geo Data Processing**
+- 📝 I regularly write Posts on [**Independent Research**](https://x.com/priyamjain1105)
+- 💬 Ask me about **Web Development**
 - 📫 Reach me at **priyamjainsocial@gmail.com**
 - 📄 Know about my experiences via my [**Resume**](https://www.linkedin.com/in/dev-priyam/overlay/1715042095322/single-media-viewer/?profileId=ACoAAEMbflwBMVNwoo-DQETizJ0aUP5uSjniA_M)
 - ⚡ Fun fact: **I am an introvert**
