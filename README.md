@@ -61,7 +61,6 @@
 
 ### 📊 My GitHub Stats
 
-<img src="https://myreadme.vercel.app/api/embed/Priyamjain1105?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <a href="http://www.github.com/priyamjain1105"><img src="https://github-readme-stats.vercel.app/api?username=priyamjain1105&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="priyamjain1105's GitHub stats" /></a>
 
