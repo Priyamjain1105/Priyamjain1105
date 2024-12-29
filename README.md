@@ -19,10 +19,10 @@
 - 🌍 I'm based in **Jhansi, India**
 - 🌱 Currently Learning the **Full Stack Development**
 - 👨‍💻 All of my projects are available on [**My Portfolio**](https://priyamweb.wixsite.com/priyamexploration)
-- 📝 I regularly write Posts on [**Twitter**](https://x.com/priyamjain1105)
+- 📝 I regularly write Blogs on [**Medium**](https://medium.com/@priyamjainofficial)
 - 💬 Ask me about **Web Development**
 - 📫 Reach me at **priyamjainsocial@gmail.com**
-- 📄 Know about my experiences via my [**Resume**](https://www.linkedin.com/in/dev-priyam/overlay/1715042095322/single-media-viewer/?profileId=ACoAAEMbflwBMVNwoo-DQETizJ0aUP5uSjniA_M)
+- 📄 Know about my experiences via my [**Resume**](https://opposite-brook-e71.notion.site/Priyam-Portfolio-167201207a2080009097c22dc905d07b)
 - ⚡ Fun fact: **I am an introvert**
 
 ---
