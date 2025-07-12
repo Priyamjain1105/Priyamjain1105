@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://twitter.com/priyamjain1105" target="_blank"><img src="https://img.shields.io/twitter/follow/priyamjain1105?logo=twitter&style=for-the-badge" alt="priyamjain1105" /></a>
   <a href="https://www.linkedin.com/in/dev-priyam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://medium.com/priyamjain1105" target="_blank"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" alt="Medium" /></a>
+  <a href="https://medium.com/@priyamjainofficial" target="_blank"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" alt="Medium" /></a>
 </p>
 
 ---
