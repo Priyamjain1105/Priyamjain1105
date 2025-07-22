@@ -17,7 +17,7 @@
 ---
 
 - 🌍 I'm based in **Jhansi, India**
-- 🌱 Currently Learning the **Full Stack Development**
+- 🌱 Currently Learning the **Data-Science and Analytics**
 - 👨‍💻 All of my projects are available on [**My Portfolio**](https://opposite-brook-e71.notion.site/Priyam-Portfolio-167201207a2080009097c22dc905d07b)
 - 📝 I regularly write Blogs on [**Medium**](https://medium.com/@priyamjainofficial)
 - 💬 Ask me about **Web Development**
