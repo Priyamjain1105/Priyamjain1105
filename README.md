@@ -1,67 +1,63 @@
-![MasterHead](pj.gif)
-
-
-<h1 align="center">Hi 👋, I'm Priyam Jain</h1>
-<h3 align="center">Debugging Life and Code</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamjain1105&label=Profile%20views&color=0e75b6&style=flat" alt="priyamjain1105" /> </p>
+# ⚡ Hello World, I'm Priyam Jain! 
+### Debugging Life and Code | Aspiring Data Scientist & MLOps Engineer
 
 <p align="left">
-  <a href="https://twitter.com/priyamjain1105" target="_blank"><img src="https://img.shields.io/twitter/follow/priyamjain1105?logo=twitter&style=for-the-badge" alt="priyamjain1105" /></a>
-  <a href="https://www.linkedin.com/in/dev-priyam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@priyamjainofficial" target="_blank"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" alt="Medium" /></a>
+<a href="https://linkedin.com/in/dev-priyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyam Jain" height="30" width="40" /></a>
+<a href="https://medium.com/@priyamjainofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyamjainofficial" height="30" width="40" /></a>
+<a href="https://twitter.com/priyamjain1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyamjain1105" height="30" width="40" /></a>
 </p>
 
 ---
 
-- 🌍 I'm based in **Jhansi, India**
-- 🌱 Currently Learning the **Data-Science and Analytics**
-- 👨‍💻 All of my projects are available on [**My Portfolio**](https://opposite-brook-e71.notion.site/Priyam-Portfolio-167201207a2080009097c22dc905d07b)
-- 📝 I regularly write Blogs on [**Medium**](https://medium.com/@priyamjainofficial)
-- 💬 Ask me about **Web Development**
-- 📫 Reach me at **priyamjainsocial@gmail.com**
-- 📄 Know about my experiences via my [**Resume**](https://opposite-brook-e71.notion.site/Priyam-Portfolio-167201207a2080009097c22dc905d07b)
-- ⚡ Fun fact: **I am an introvert**
+## 📖 About Me
+I am a **Computer Science & Engineering student** based in Jhansi, India, with a passion for building intelligent systems. My journey started with **Full-Stack Development**, but I’ve shifted my focus toward the intersection of **Machine Learning, Data Analytics, and MLOps**. 
 
+- 🚀 **Currently exploring:** Advanced Data Science pipelines and AI-driven microservices.
+- 🛠 **Working on:** Bridging the gap between raw data and scalable web applications.
+- ✍️ **Writing:** Technical insights on Medium regarding development and data trends.
+- 🧠 **Fun Fact:** I’m a proud introvert who speaks fluently in Python and Markdown.
 
 ---
 
-### 💻 Skills
-![Blue and White Abstract Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/64061a5e-b86c-4dc3-8f15-5c2a2a5659d7)
+## 🛠️ Tech Stack & Skills
 
+### 📈 Data Science & AI
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
----
-
-### 🏆 Achievements
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyamjain1105&theme=radical&margin-w=15" alt="priyamjain1105" /></a> </p>
-
----
-
-### 📊 My GitHub Stats
-
-
-<a href="http://www.github.com/priyamjain1105"><img src="https://github-readme-stats.vercel.app/api?username=priyamjain1105&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="priyamjain1105's GitHub stats" /></a>
-
-<a href="http://www.github.com/priyamjain1105"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamjain1105&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/priyamjain1105" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamjain1105&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+### 💻 Development & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" alt="Linux" />
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" alt="Bash" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Cloud-GitHub%20Pages-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="GitHub Pages" />
-  <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=
+## 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyamjain1105&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamjain1105&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### Quote
+## 🏆 Featured Projects
+* **[Portfolio Website](https://opposite-brook-e71.notion.site/Priyam-Portfolio-167201207a2080009097c22dc905d07b):** A comprehensive showcase of my work and technical journey.
+* **End-to-End ML Pipelines:** Check out my repositories for projects involving sentiment analysis, recommendation engines, and computer vision.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+---
+
+## 📬 Connect with Me
+- **Email:** [priyamjainsocial@gmail.com](mailto:priyamjainsocial@gmail.com)
+- **LinkedIn:** [Priyam Jain](https://www.linkedin.com/in/dev-priyam)
+- **Portfolio:** [Visit My Notion Portfolio](https://opposite-brook-e71.notion.site/Priyam-Portfolio-167201207a2080009097c22dc905d07b)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
